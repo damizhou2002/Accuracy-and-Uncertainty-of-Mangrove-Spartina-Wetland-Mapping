@@ -1,0 +1,25 @@
+All mapping products evaluated are publicly available online.
+
+HGMF:
+- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PKAN93
+
+GMW:
+- https://zenodo.org/records/21346457
+
+CCAV-10m:
+- https://www.scidb.cn/detail?dataSetId=a085f16794464c869ad6511f1a887ffe
+
+Mao-Spartina:
+- https://www.scidb.cn/detail?dataSetId=DS_ef379125b6f24d958fce255432f046aa&version=V1
+
+CM-SSM:
+- https://zenodo.org/records/16296823
+
+GLC_FCS30D:
+- https://zenodo.org/records/8239305
+
+CCLC:
+- https://fuselab.hku.hk/dataset/
+
+GWL_FCCS30D:
+- https://zenodo.org/records/10068479
